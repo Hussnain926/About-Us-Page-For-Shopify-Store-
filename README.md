@@ -1,0 +1,1 @@
+This is a Studio page for shopify with some products which is dirctly linked with products for buyers . the mean of this page is to showcase the products and show the studio for customers to get trust .
